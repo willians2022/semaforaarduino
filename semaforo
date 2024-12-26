@@ -16,3 +16,5 @@ void loop() {
   delay(3000);
   digitalWrite(10, LOW); // apaga o led vermelho 
 }
+
+https://github.com/willians2022/semaforaarduino/issues/2
